@@ -1,6 +1,6 @@
 # Hi, I'm Sourov Ahmed
 
-Bachelor of Science in Mechanical Engineering (Mar 2022 - Aug 2026)
+Bachelor of Science in Mechanical Engineering (Mar 2022 - Aug 2026).
 Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh.
 
 ## Research Interests
