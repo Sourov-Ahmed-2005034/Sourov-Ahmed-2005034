@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sourov Ahmed
 
-<!--
-**Sourov-Ahmed-2005034/Sourov-Ahmed-2005034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering undergraduate at KUET, Bangladesh.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computational Materials Science
+- Physical Metallurgy
+- High-Entropy Alloys
+- Molecular Dynamics
+- Computational Thermodynamics
+- CALPHAD
+- Phase Stability
+- Microstructure Modeling
+
+## Current Research
+
+Undergraduate thesis on atomistic investigation of
+AlxCoCrFeNi high-entropy alloys using LAMMPS.
+
+## Computational Experience
+
+- LAMMPS
+- Atomsk
+- Python
+- Jupyter Notebook
+- Molecular Dynamics
+- GSFE
+- Lattice thermal conductivity simulations
+- PDOS/MSD analysis
+- Polycrystalline structure generation
+
+## Featured Research
+
+[AlxCoCrFeNi Atomistic Simulations](https://github.com/Sourov-Ahmed-2005034/AlxCoCrFeNi-Atomistic-Simulations)
