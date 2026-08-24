@@ -39,3 +39,6 @@ AlxCoCrFeNi high-entropy alloys using LAMMPS.
 ## Featured Projects
 
 [Computational-Thermodynamics-Learning](https://github.com/Sourov-Ahmed-2005034/Computational-Thermodynamics-Learning)
+
+[PhaseForge-inspired Al-Co ML Energy Prediction](https://github.com/Sourov-Ahmed-2005034/AlCo_ML_Energy_Prediction)
+
