@@ -14,11 +14,6 @@ Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh.
 - Phase Stability
 - Microstructure Modeling
 
-## Current Research
-
-Undergraduate thesis on atomistic investigation of
-AlxCoCrFeNi high-entropy alloys using LAMMPS.
-
 ## Computational Experience
 
 - LAMMPS
@@ -30,6 +25,12 @@ AlxCoCrFeNi high-entropy alloys using LAMMPS.
 - Lattice thermal conductivity simulations
 - PDOS/MSD analysis
 - Polycrystalline structure generation
+  
+  
+## Current Research
+
+Undergraduate thesis on atomistic investigation of
+AlxCoCrFeNi high-entropy alloys using LAMMPS.
 
   
 ## UG Thesis Synopsis
