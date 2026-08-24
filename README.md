@@ -31,9 +31,12 @@ AlxCoCrFeNi high-entropy alloys using LAMMPS.
 - PDOS/MSD analysis
 - Polycrystalline structure generation
 
+
 ## UG Thesis Synopsis
 
 [AlxCoCrFeNi Atomistic Simulations](https://github.com/Sourov-Ahmed-2005034/AlxCoCrFeNi-Atomistic-Simulations)  
+
+
 
 
 ## Featured Projects
