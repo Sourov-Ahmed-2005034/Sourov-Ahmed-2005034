@@ -1,7 +1,12 @@
 # Hi, I'm Sourov Ahmed
 
 Bachelor of Science in Mechanical Engineering (Mar 2022 - Aug 2026).  
-Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh.
+Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh.  
+  
+```text
+CGPA: 3.83 (Last 4 semesters: 3.93)
+Class rank: 4th out of 130 students
+```
 
 ## Research Interests
 
