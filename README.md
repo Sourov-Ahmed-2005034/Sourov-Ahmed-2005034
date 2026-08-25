@@ -10,25 +10,25 @@ Class rank: 4th out of 130 students
 
 ## Research Interests
 
-- Computational Materials Science
 - Physical Metallurgy
 - High-Entropy Alloys
-- Molecular Dynamics
-- Computational Thermodynamics
+- Materials Characterization
+- Computational Materials Science
+- Molecular Dynamics Simulation
 - CALPHAD
 - Phase Stability
 - Microstructure Modeling
 
 ## Computational Experience
 
-- LAMMPS
 - Atomsk
+- LAMMPS
 - Python
 - Jupyter Notebook
 - Molecular Dynamics
-- GSFE
+- Generalized stacking-fault energy (GSFE) simulation
 - Lattice thermal conductivity simulations
-- PDOS/MSD analysis
+- Phonon density of states (PDOS) and mean square displacement (MSD) analysis
 - Polycrystalline structure generation
   
   
