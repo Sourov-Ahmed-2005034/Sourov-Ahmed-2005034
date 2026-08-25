@@ -41,6 +41,13 @@ AlxCoCrFeNi high-entropy alloys using LAMMPS.
 
 
   
+## PhaseForge Concept
+
+[PhaseForge Concept Map: Background, Learning, and Research Interests](https://github.com/Sourov-Ahmed-2005034/PhaseForge_Concept_Map)  
+
+
+  
+  
 ## Featured Projects
 
 [Computational-Thermodynamics-Learning](https://github.com/Sourov-Ahmed-2005034/Computational-Thermodynamics-Learning)
