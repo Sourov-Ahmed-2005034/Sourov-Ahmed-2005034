@@ -32,13 +32,9 @@ Class rank: 4th out of 130 students
 - Polycrystalline structure generation
   
   
-## Current Research
-
-Undergraduate thesis on atomistic investigation of
-AlxCoCrFeNi high-entropy alloys using LAMMPS.
 
   
-## UG Thesis Synopsis
+## UG Thesis Synopsis (click the following hyperlink)
 
 [AlxCoCrFeNi Atomistic Simulations](https://github.com/Sourov-Ahmed-2005034/AlxCoCrFeNi-Atomistic-Simulations)  
 
@@ -46,14 +42,14 @@ AlxCoCrFeNi high-entropy alloys using LAMMPS.
 
 
   
-## PhaseForge Concept
+## PhaseForge Fundamental (click the following hyperlink)
 
 [PhaseForge Concept Map: Background, Learning, and Research Interests](https://github.com/Sourov-Ahmed-2005034/PhaseForge_Concept_Map)  
 
 
   
   
-## Featured Projects
+## Featured Projects (click the following hyperlinks)
 
 [Computational-Thermodynamics-Learning](https://github.com/Sourov-Ahmed-2005034/Computational-Thermodynamics-Learning)
 
