@@ -5,7 +5,7 @@ Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh.
   
 ```text
 CGPA: 3.83 (Last 4 semesters: 3.93)
-Class rank: 4th out of 130 students
+Class rank: 4th out of 120 students
 ```
 
 ## Research Interests
